@@ -1,0 +1,19 @@
+{
+  "name": "learndocker",
+  "version": "1.0.0",
+  "description": "Learn how docker works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philiplangbehnc2g/learndocker.git"
+  },
+  "author": "Philip Langbehn <philip.langbehn@daimler.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/philiplangbehnc2g/learndocker/issues"
+  },
+  "homepage": "https://github.com/philiplangbehnc2g/learndocker#readme"
+}
